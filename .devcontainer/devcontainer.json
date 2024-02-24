@@ -12,6 +12,7 @@
 		"vscode": {
 			"extensions": [
 				"xdebug.php-debug",
+				"bmewburn.vscode-intelephense-client",
 				"streetsidesoftware.code-spell-checker",
 				"SanderRonde.phpstan-vscode"
 			]
