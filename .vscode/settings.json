@@ -3,11 +3,28 @@
         "temp": true,
         "tmp": true
     },
-    "cSpell.words": [
-        "phpstan"
-    ],
     "phpstan.binCommand": [
         "vendor/bin/phpstan-without-xdebug"
     ],
-    "phpstan.binPath": ""
+    "phpstan.binPath": "",
+    "cSpell.ignorePaths": [
+        "package-lock.json",
+        "node_modules",
+        "vscode-extension",
+        ".git/objects",
+        ".vscode",
+        ".vscode-insiders",
+        ".devcontainer"
+    ],
+    "cSpell.words": [
+        "autoload",
+        "intelephense",
+        "Kocman",
+        "Křivka",
+        "phar",
+        "phpstan",
+        "Radim",
+        "spaze",
+        "Zbyněk"
+    ]
 }
