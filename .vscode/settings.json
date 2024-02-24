@@ -5,5 +5,9 @@
     },
     "cSpell.words": [
         "phpstan"
-    ]
+    ],
+    "phpstan.binCommand": [
+        "vendor/bin/phpstan-without-xdebug"
+    ],
+    "phpstan.binPath": ""
 }
