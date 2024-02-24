@@ -2,5 +2,7 @@
 /temp/
 /tmp/
 /examples/
+/student/
+/tests/
 is_it_ok.log
 *.zip
