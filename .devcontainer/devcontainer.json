@@ -14,7 +14,8 @@
 				"xdebug.php-debug",
 				"bmewburn.vscode-intelephense-client",
 				"streetsidesoftware.code-spell-checker",
-				"SanderRonde.phpstan-vscode"
+				"SanderRonde.phpstan-vscode",
+				"Gruntfuggly.todo-tree"
 			]
 		}
 	}
