@@ -18,13 +18,19 @@
     ],
     "cSpell.words": [
         "autoload",
+        "CREATEFRAME",
+        "DEFVAR",
         "intelephense",
         "Kocman",
         "Křivka",
         "phar",
         "phpstan",
+        "POPFRAME",
+        "PUSHFRAME",
+        "PUSHS",
         "Radim",
         "spaze",
+        "symb",
         "Zbyněk"
     ]
 }
