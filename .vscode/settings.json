@@ -4,7 +4,7 @@
         "tmp": true
     },
     "phpstan.binCommand": [
-        "vendor/bin/phpstan-without-xdebug"
+        "bin/phpstan-without-xdebug"
     ],
     "phpstan.binPath": "",
     "cSpell.ignorePaths": [
