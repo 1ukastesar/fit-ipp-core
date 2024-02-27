@@ -11,7 +11,7 @@
         "package-lock.json",
         "node_modules",
         "vscode-extension",
-        ".git/objects",
+        ".git",
         ".vscode",
         ".vscode-insiders",
         ".devcontainer"
