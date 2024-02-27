@@ -21,7 +21,10 @@
         "CREATEFRAME",
         "DEFVAR",
         "DPRINT",
+        "GETCHAR",
         "intelephense",
+        "JUMPIFEQ",
+        "JUMPIFNEQ",
         "Kocman",
         "Křivka",
         "phar",
@@ -30,7 +33,9 @@
         "PUSHFRAME",
         "PUSHS",
         "Radim",
+        "SETCHAR",
         "spaze",
+        "STRI2INT",
         "symb",
         "Zbyněk"
     ]
