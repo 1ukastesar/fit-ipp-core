@@ -1,1 +1,1 @@
-vendor/bin/phpstan-without-xdebug
+bin/phpstan-without-xdebug
