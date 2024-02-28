@@ -38,5 +38,6 @@
         "STRI2INT",
         "symb",
         "Zbyněk"
-    ]
+    ],
+    "phpstan.timeout": 20000
 }
